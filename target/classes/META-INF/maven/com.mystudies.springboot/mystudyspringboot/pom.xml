@@ -5,6 +5,7 @@
 	<artifactId>mystudyspringboot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring boot</name>
+	
 	<properties>
 	  <java.version>1.8</java.version>
 	</properties>

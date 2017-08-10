@@ -1,4 +1,4 @@
-package com.mystudies.springboot.pojo;
+package com.mystudies.springboot.topic;
 
 public class TopicPojo {
 	public TopicPojo(long id, String name, String description) {

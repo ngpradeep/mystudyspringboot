@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.mystudies.springboot.controller;
+package com.mystudies.springboot.hello;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
